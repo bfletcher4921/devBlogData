@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "6 hours of 'which tab is that in'",
+    "date": "2025-07-27",
+    "content": "This is the content of my first blog post.",
+    "tags": ["intro", "welcome"],
+    "link": "https://yourlink.com"
+  },
+  {
+    "id": 2,
+    "title": "Commit Happens",
+    "date": "2025-07-28",
+    "content": "Organize your code for meaningful commits.",
+    "tags": ["update", "thoughts"],
+    "link": ""
+  }
+
+    {
+    "id": 3,
+    "title": "The bug stops here! What to do when your changes break your code",
+    "date": "2025-07-29",
+    "content": "This is a resource for tips, techniques, and information related to findingt and fixing errors in code.",
+    "tags": ["debug", "fix errors", "find errors"],
+    "link": ""
+  }
+
+]
