@@ -14,9 +14,8 @@
     "content": "Organize your code for meaningful commits.",
     "tags": ["update", "thoughts"],
     "link": ""
-  }
-
-    {
+  },
+  {
     "id": 3,
     "title": "The bug stops here! What to do when your changes break your code",
     "date": "2025-07-29",
@@ -24,5 +23,5 @@
     "tags": ["debug", "fix errors", "find errors"],
     "link": ""
   }
-
 ]
+
