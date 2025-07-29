@@ -6,7 +6,8 @@
     "date": "2025-07-27",
     "content": "I have 49 tabs open as of this writing. My browser tabs are mostly interesting articles and running race information that I need to get back to, but in reality I never get the time to finish them. Today’s world requires us to learn new things fast as possible. One link leads to another, and another, and it eventually distract us from our main objective. We are lost in all the links, tiktoks and YouTube videos. It is not entirely our fault. The algorithms of modern systems including YouTube are trying to keep us within their system. They know what we like and set traps to keep us locked into the content on their platform. This is why we all fall into the tab trap.",
     "tags": ["intro", "welcome"],
-    "link": "https://yourlink.com"
+    "link": "https://yourlink.com",
+    "status": "published"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "date": "2025-07-28",
     "content": "Organize your code for meaningful commits.",
     "tags": ["update", "thoughts"],
-    "link": ""
+    "link": "",
+    "status": "draft"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "date": "2025-07-29",
     "content": "This is a resource for tips, techniques, and information related to findingt and fixing errors in code.",
     "tags": ["debug", "fix errors", "find errors"],
-    "link": ""
+    "link": "",
+    "status": "coming-soon"
   }
 ]
 
